@@ -1,0 +1,23 @@
+{
+ "url":"https://node-ux.lb.dev.node-ops.net/",
+ "username":"admin",
+ "password":"Admin123!",
+ "urlHTEC":"https://qa-sandbox.apps.htec.rs/login",
+ "usernameHTEC":"vladimirmrksic2013@gmail.com",
+ "passwordHTEC":"Rpca3LkCGAtkQsz",
+ "Title1":"Title",
+ "Title2":"Title",
+ "Title3":"Title",
+ "Title4":"Title",
+ "Exp_res1":"Exp_res",
+ "Exp_res2":"Exp_res",
+ "Exp_res3":"Exp_res",
+ "Exp_res4":"Exp_res",
+ "Use_case1":"Use_case",
+ "Use_case2":"Use_case",
+ "Use_case3":"Use_case",
+ "Use_case4":"Use_case",
+ "name" :"bob",
+ "gender":"Female",
+ "productName": ["Blackberry","Nokia Edge"]
+}
